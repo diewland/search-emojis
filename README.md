@@ -8,3 +8,4 @@ Search emojis
 * https://github.com/ikatyang/emoji-cheat-sheet
 * https://thekevinscott.com/emojis-in-javascript/
 * https://stackoverflow.com/a/57805/466693
+* https://mathiasbynens.be/notes/javascript-unicode
